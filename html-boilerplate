@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>My First Webpage!</title>
+    <body>
+      <h1>Hello world</h1>
+      <p>Im new to <b>code</b> and im very excited to be apart of this with your all!
+      These are just some of the reasons why i want to be apart of this community.</p>
+      <ul>
+        <li>Im really intreaged on how websites are made</li>
+        <li>I also beleive that this feild of work is suted best for me</li>
+        <li>I hope to be really succesful and I hope I can <b>Network</b></li>
+      </ul>
+    </body>
+  </head>
+</html> 
